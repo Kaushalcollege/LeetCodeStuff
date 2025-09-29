@@ -32,13 +32,23 @@ class Solution {
         */
 
         int n = values.length;
-        int[][] dp = new int[n][n];
+        int[][] dp = new int[n][n]; // dp[i][j] will store the minimum triangulation score for polygon between i and j
 
-        // length is the size of sub-polygon
-        for (int len = 3; len <= n; len++) {
+        // We build up solutions for increasing lengths of polygons
+        for (int len = 3; len <= n; len++) {  // polygon must have at least 3 vertices
             for (int i = 0; i + len - 1 < n; i++) {
-                int j = i + len - 1;
+                int j = i + len - 1; // j is the endpoint of current polygon segment
                 dp[i][j] = Integer.MAX_VALUE;
+
+                /*
+                    -- Transition:
+                    -- To triangulate polygon from i to j, choose a vertex k where (i < k < j).
+                    -- That forms a triangle (i, k, j).
+                    -- The cost of this triangle = values[i] * values[k] * values[j].
+                    -- Remaining polygon splits into two subproblems: (i..k) and (k..j).
+                    -- So recurrence is:
+                        dp[i][j] = min(dp[i][j], dp[i][k] + dp[k][j] + values[i]*values[k]*values[j])
+                */
                 for (int k = i + 1; k < j; k++) {
                     dp[i][j] = Math.min(
                         dp[i][j],
@@ -48,6 +58,7 @@ class Solution {
             }
         }
 
+        // Final answer is minimum triangulation score for full polygon (0..n-1)
         return dp[0][n - 1];
     }
 }
