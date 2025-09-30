@@ -12,19 +12,28 @@ class Solution {
                 -- Repeat the entire process starting from step 1.
                 -- return the triangular sum of nums.
 
-                -- the space complexity will be O(n^2) as we are creating a new array newNums.
+                -- the space complexity will be O(n) as we are creating a new array newNums.
 
         */
 
         int n = nums.length;
 
-        while (n > 1){
-            int[] newNums = new int[n - 1];
-            for (int i = 0; i < n - 1; i++){
-                newNums[i] = (nums[i] + nums[i+1]) % 10;
-            }
+        /* This is O(n) space and O(n^2) time complexity */
+        // while (n > 1){
+        //     int[] newNums = new int[n - 1];
+        //     for (int i = 0; i < n - 1; i++){
+        //         newNums[i] = (nums[i] + nums[i+1]) % 10;
+        //     }
 
-            nums = newNums;
+        //     nums = newNums;
+        //     n--;
+        // }
+
+        /* This is O(1) space and O(n^2) time complexity */
+        while (n > 1){
+            for (int i = 0; i < n - 1; i++){
+                nums[i] = (nums[i] + nums[i+1]) % 10;
+            }
             n--;
         }
 
