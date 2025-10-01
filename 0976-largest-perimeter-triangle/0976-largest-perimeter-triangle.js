@@ -1,15 +1,39 @@
 /**
- * @param {number[]} nums
- * @return {number}
+ * Returns the largest possible perimeter of a triangle from given side lengths.
+ *
+ * @param {number[]} nums - Array of side lengths
+ *
+ * @returns {number} - Largest valid perimeter or 0 if no valid triangle possible
  */
-var largestPerimeter = function(nums) {
-    nums.sort((a, b) => a - b); // sort ascending
+const largestPerimeter = nums => {
+    // Helper function to extract the maximum value from nums array
+    const extractMax = () => {
+        const max = Math.max(...nums)
+        const index = nums.indexOf(max)
 
-    for (let i = nums.length - 1; i >= 2; i--) {
-        if (nums[i - 1] + nums[i - 2] > nums[i]) {
-            return nums[i] + nums[i - 1] + nums[i - 2];
-        }
+        nums[index] = nums.at(-1)
+        nums.pop()
+
+        return max
     }
 
-    return 0;
-};
+    // Initialize with the two largest sides
+    let largestSide = extractMax(),
+        secondSide = extractMax()
+
+    // Check each possible third side of the triangle
+    while (nums.length > 0) {
+        const thirdSide = extractMax()
+
+        // Check if these sides can form a valid triangle
+        if (largestSide < secondSide + thirdSide)
+            return largestSide + secondSide + thirdSide
+
+        // Shift sides for next iteration
+        largestSide = secondSide
+        secondSide = thirdSide
+    }
+
+    // Return 0 if no valid triangle can be formed
+    return 0
+}
