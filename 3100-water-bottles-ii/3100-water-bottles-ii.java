@@ -27,12 +27,17 @@ class Solution {
             -- Initially, let empty = numBottles.
             -- drank = newBottles.
             -- newBottles = numBottles.
-            -- while (){
-                
+            -- while (empty >= numExchange){
+                empty -= numExchange;   // spend them
+                numExchange++;          // cost increases
+                drank++;                // drink the new bottle
+                empty++;                // gain one empty back
             }
+
+            -- return drank.
         */
 
-         int drank = numBottles;    // initially drink all bottles
+        int drank = numBottles;    // initially drink all bottles
         int empty = numBottles;    // all become empty
 
         while (empty >= numExchange) {
