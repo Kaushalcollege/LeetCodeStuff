@@ -16,24 +16,17 @@ class Solution {
             -- to execute this we have to structure our code in a neat manner.
 
         */
-
-        System.out.println(minCovered(minutes));
-        System.out.println(hourCovered(hour));
-
-        double hourAngle = hourCovered(hour);
-        double minAngle = minCovered(minutes);
-
-        if (minAngle > 0){
-            hourAngle += (minAngle / 360) * 30;
+        double hA = hourCovered(hour);
+        if (minCovered(minutes) > 0){
+            hA += (minCovered(minutes) / 360) * 30;
         }
 
-        if (Math.abs(minAngle - hourAngle) > 180.0) return 360 - Math.abs(minAngle - hourAngle);
+        if (Math.abs(minCovered(minutes) - hA) > 180.0) return 360 - Math.abs(minCovered(minutes) - hA);
 
-        return Math.abs(minAngle - hourAngle);
+        return Math.abs(minCovered(minutes) - hA);
     }
 
     private double minCovered (int m){
-        // if (((double)m / 60) * 360 == )
         return ((double)m / 60) * 360;
     }
 
