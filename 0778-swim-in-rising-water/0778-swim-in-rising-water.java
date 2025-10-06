@@ -1,30 +1,36 @@
 class Solution {
     public int swimInWater(int[][] grid) {
         int m = grid.length, n = grid[0].length;
-        PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> a[0] - b[0]);
-        int[][] directions = {{0,1}, {1,0}, {0,-1}, {-1,0}};
-        Set<String> seen = new HashSet<>();
+        List<int[]> edges = new ArrayList<>();
         
-        pq.offer(new int[]{grid[0][0], 0, 0});
-        
-        while (!pq.isEmpty()) {
-            int[] curr = pq.poll();
-            int max_d = curr[0], r = curr[1], c = curr[2];
-            
-            String key = r + "," + c;
-            if (seen.contains(key)) continue;
-            seen.add(key);
-            
-            if (r == m-1 && c == n-1) return max_d;
-            
-            for (int[] dir : directions) {
-                int nr = r + dir[0], nc = c + dir[1];
-                if (nr >= 0 && nr < m && nc >= 0 && nc < n && !seen.contains(nr + "," + nc)) {
-                    int new_d = Math.max(max_d, grid[nr][nc]);
-                    pq.offer(new int[]{new_d, nr, nc});
-                }
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (i > 0)
+                    edges.add(new int[]{Math.max(grid[i][j], grid[i-1][j]), i*n+j, (i-1)*n+j});
+                if (j > 0)
+                    edges.add(new int[]{Math.max(grid[i][j], grid[i][j-1]), i*n+j, i*n+j-1});
             }
         }
-        return -1;
+        
+        Collections.sort(edges, (a, b) -> a[0] - b[0]);
+        int[] parent = new int[m * n];
+        for (int i = 0; i < m * n; i++) parent[i] = i;
+        
+        for (int[] edge : edges) {
+            union(parent, edge[1], edge[2]);
+            if (find(parent, 0) == find(parent, m*n-1))
+                return edge[0];
+        }
+        return grid[0][0];
+    }
+    
+    private int find(int[] parent, int x) {
+        if (parent[x] != x)
+            parent[x] = find(parent, parent[x]);
+        return parent[x];
+    }
+    
+    private void union(int[] parent, int x, int y) {
+        parent[find(parent, x)] = find(parent, y);
     }
 }
