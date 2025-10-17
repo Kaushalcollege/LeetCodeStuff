@@ -12,7 +12,6 @@ class Solution {
         for (int i = 0; i < haystack.length(); i++){
             for (int j = i; j < haystack.length(); j++){
                 String s = haystack.substring(i, j + 1);
-                System.out.println(s);
                 if (s.equals(needle)) return i;
             }
         }
