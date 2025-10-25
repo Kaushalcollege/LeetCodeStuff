@@ -1,23 +1,25 @@
 class Solution {
     public int search(int[] nums, int target) {
-        //Possibly left rotated.
-        // unknown index k.
-        // Brute Force.
-        Map<Integer, Integer> ii = new HashMap<>();
-        for (int i = 0; i < nums.length; i++) ii.put(nums[i], i);
-        Arrays.sort(nums);
-        return binSearch(ii, nums, target);
-    }
+        // The last code was with a time complexity of O(nlogn).
+        // This is with a complexity of O(logn) -- Binary Search.
 
-    private int binSearch(Map<Integer, Integer> map, int[] a, int k){
-        int i = 0, j = a.length - 1, m = 0;
+        int i = 0, j = nums.length - 1, m = 0;
 
         while(i <= j){
             m = i + (j - i) / 2;
 
-            if (a[m] > k) j = m - 1;
-            else if (a[m] < k) i = m + 1;
-            else return map.get(a[m]);
+            if (nums[m] == target) return m;
+
+            // left subarray (sorted).
+            if (nums[i] <= nums[m]){
+                if (target < nums[m] && target >= nums[i]) j = m - 1;
+                else i = m + 1;
+            }
+
+            else {
+                if (target > nums[m] && target <= nums[j]) i = m + 1;
+                else j = m - 1;
+            }
         }
         return -1;
     }
