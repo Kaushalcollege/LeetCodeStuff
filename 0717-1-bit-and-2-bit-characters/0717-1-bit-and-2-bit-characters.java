@@ -5,7 +5,7 @@ class Solution {
 
         int idx = 0;
         while (idx < bits.length){
-            if (bits[idx] == 0 && (charStart == -1 || charStart != -1)) {
+            if (bits[idx] == 0) {
                 // this is one-bit character
                 idx++;
                 // continue;
