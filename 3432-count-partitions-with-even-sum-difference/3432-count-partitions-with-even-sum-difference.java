@@ -13,13 +13,36 @@
 //         return count;
 //     }
 // }
+// class Solution {
+//     public int countPartitions(int[] nums) {
+//         int total = 0;
+//         for (int x : nums) total += x;
+
+//         if (total % 2 != 0) return 0;  // odd total => no valid partitions
+
+//         return nums.length - 1;        // all splits work
+//     }
+// }
 class Solution {
     public int countPartitions(int[] nums) {
-        int total = 0;
-        for (int x : nums) total += x;
+        int n = nums.length;
+        int count = 0;
 
-        if (total % 2 != 0) return 0;  // odd total => no valid partitions
+        for (int i = 0; i < n - 1; i++) {
+            int lsum = 0, rsum = 0;
 
-        return nums.length - 1;        // all splits work
+            // compute left sum 0..i
+            for (int l = 0; l <= i; l++)
+                lsum += nums[l];
+
+            // compute right sum i+1..n-1
+            for (int r = i + 1; r < n; r++)
+                rsum += nums[r];
+
+            if (Math.abs(lsum - rsum) % 2 == 0)
+                count++;
+        }
+
+        return count;
     }
 }
