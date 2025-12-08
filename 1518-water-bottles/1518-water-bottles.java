@@ -1,39 +1,15 @@
 class Solution {
     public int numWaterBottles(int numBottles, int numExchange) {
-        /*
-            -- Given:
-            -- numBottles are initially full of water.
-            -- we can get i full water bottle if we exchange numExchange empty water bottles.
-            -- the operation of drinking a full water bottle turns it into an empty water bottle.
-            -- RTF:
-            -- The maximum number of water bottle we can drink.
-            -- Constraints:
-            -- 1 <= numBottles <= 100
-            -- 2 <= numExchange <= 100
-
-            -- Initially let empty = numBottles.
-            -- drank = numBottles.
-            -- while (empty > numExchange){
-                newBottles = empty / numExchange
-                empty = empty % numExchange
-
-                drank += newBottles
-                empty = empty + newBottles
-            }
-            -- and then return drank.
-        */
-
-        int empty = numBottles;
+        int total = 0;
         int drank = numBottles;
-        int newBottles = 0;
-
-        while (empty >= numExchange){
-            newBottles = empty / numExchange;
-            empty %= numExchange;
-            drank += newBottles;
-            empty += newBottles;
-        }
-        
-        return drank;
+        int empty = 0;
+       while (numBottles > 0) {
+        drank = numBottles;
+        total += drank;
+        empty += drank;
+        numBottles = empty / numExchange;
+        empty %= numExchange;
+       }
+    return total;
     }
 }
