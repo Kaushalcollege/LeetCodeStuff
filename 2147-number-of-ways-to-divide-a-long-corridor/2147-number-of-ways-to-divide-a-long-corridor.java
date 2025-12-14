@@ -18,7 +18,7 @@ class Solution {
             }
         }
 
-        System.out.println(segments);
+        // System.out.println(segments);
 
         int endOfFirst = -1;
         long prod = 1; // use long
