@@ -4,9 +4,14 @@ class Solution:
 
         for list in matrix :
             for i in list :
-                total += abs(i)
-                if i < 0 : neg += 1
-                mini = min(mini, abs(i))
+                if i < 0 :
+                    neg += 1
+                    i = -i
+
+                if i < mini :
+                    mini = i
+
+                total += i
 
         # print(f"{mini} {neg}")
 
