@@ -27,9 +27,9 @@ class Solution:
     def dfs_max(self, node) :
         if node == None : return 0
 
-        left, right = self.dfs_max(node.left), self.dfs_max(node.right)
+        # left, right = self.dfs_max(node.left), self.dfs_max(node.right)
 
-        sub_tree = left + right + node.val
+        sub_tree = self.dfs_max(node.left) + self.dfs_max(node.right) + node.val
 
         prod = sub_tree * (self.total - sub_tree)
         if prod > self.maxi : self.maxi = prod
