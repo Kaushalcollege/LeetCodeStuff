@@ -1,44 +1,31 @@
 class Solution {
-    int[] nums1, nums2;
-    int[][] memo;
-    int n, m;
-    final int NEG_INF = (int) -1e9;
-    public int maxDotProduct(int[] a, int[] b) {
-        // We will Build the solution through recursion -- This is a pick and notPick problem.
+    int[] A, B;
+    int N, M;
+    Integer[][] memo;
+    public int maxDotProduct(int[] nums1, int[] nums2) {
+        // We use a pick and notPick method :::
+        /*
+            -- Let us assume that f (x, y) returns the max dot product till idx i in nums1 and idx j in nums2
+            -- We can either choose to add nums[x] * nums[y] or skip nums[x] and add nums[x + 1] * nums2[y] or either skip both and add nums[x] * nums[y + 1]
+        */
 
-        nums1 = a;
-        nums2 = b;
-        n = nums1.length;
-        m = nums2.length;
-
-        memo = new int[n][m];
-        for (int i = 0; i < n; i++)
-            Arrays.fill(memo[i], Integer.MIN_VALUE);
-
-        return dp(0, 0);
-
+        A = nums1; B = nums2;
+        N = A.length; M = B.length;
+        memo = new Integer[N][M];
+        return f (0, 0);
     }
 
-    private int dp(int i, int j) {
-        if (i == n || j == m)
-            return NEG_INF;
+    private int f (int x, int y) {
+        if (x == N || y == M)
+            return Integer.MIN_VALUE / 2;
+        
+        if(memo[x][y] != null) return memo[x][y];
 
-        if (memo[i][j] != Integer.MIN_VALUE)
-            return memo[i][j];
+        int pick = A[x] * B[y] + Math.max(0, f(x + 1, y + 1));
+        int skip1 = f(x + 1, y);
+        int skip2 = f(x, y + 1);
 
-        int take = nums1[i] * nums2[j];
-
-        int res = Math.max(
-            Math.max(
-                take + dp(i + 1, j + 1), // take both and continue
-                take                    // take and end here
-            ),
-            Math.max(
-                dp(i + 1, j),           // skip nums1[i]
-                dp(i, j + 1)            // skip nums2[j]
-            )
-        );
-
-        return memo[i][j] = res;
+        memo[x][y] = Math.max(pick, Math.max(skip1, skip2));
+        return memo[x][y];
     }
 }
