@@ -2,29 +2,32 @@ class Solution {
     public int minFlips(String s) {
 
         int n = s.length();
-        String ss = s + s;
+        int[][] pre = new int[n][2];
 
-        int diff1 = 0, diff2 = 0;
-        int ans = Integer.MAX_VALUE;
+        for(int i = 0; i < n; i++) {
+            char ch = s.charAt(i);
 
-        for(int i = 0; i < ss.length(); i++) {
+            pre[i][0] = (i == 0 ? 0 : pre[i-1][1]) + (ch == '1' ? 1 : 0);
+            pre[i][1] = (i == 0 ? 0 : pre[i-1][0]) + (ch == '0' ? 1 : 0);
+        }
 
-            char expected1 = (i % 2 == 0) ? '0' : '1';
-            char expected2 = (i % 2 == 0) ? '1' : '0';
+        int ans = Math.min(pre[n-1][0], pre[n-1][1]);
 
-            if(ss.charAt(i) != expected1) diff1++;
-            if(ss.charAt(i) != expected2) diff2++;
+        if(n % 2 == 0)
+            return ans;
 
-            if(i >= n) {
-                int j = i - n;
+        int[][] suf = new int[n][2];
 
-                if(ss.charAt(j) != ((j % 2 == 0) ? '0' : '1')) diff1--;
-                if(ss.charAt(j) != ((j % 2 == 0) ? '1' : '0')) diff2--;
-            }
+        for(int i = n-1; i >= 0; i--) {
+            char ch = s.charAt(i);
 
-            if(i >= n - 1) {
-                ans = Math.min(ans, Math.min(diff1, diff2));
-            }
+            suf[i][0] = (i == n-1 ? 0 : suf[i+1][1]) + (ch == '1' ? 1 : 0);
+            suf[i][1] = (i == n-1 ? 0 : suf[i+1][0]) + (ch == '0' ? 1 : 0);
+        }
+
+        for(int i = 0; i < n-1; i++) {
+            ans = Math.min(ans, pre[i][0] + suf[i+1][0]);
+            ans = Math.min(ans, pre[i][1] + suf[i+1][1]);
         }
 
         return ans;
