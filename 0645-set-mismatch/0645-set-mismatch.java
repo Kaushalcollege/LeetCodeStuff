@@ -9,9 +9,7 @@ class Solution {
                 ii.add(i);
                 sum += i;
             }
-            else {
-                res[0] = i;
-            }
+            else res[0] = i;
         }
 
         res[1] = (n * (n + 1) / 2) - sum;
