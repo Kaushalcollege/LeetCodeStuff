@@ -17,10 +17,10 @@ class Solution {
         }
         s.append('0');
         backTrack(n, idx + 1, s);
-        s.deleteCharAt(idx);
+        s.deleteCharAt(s.length() - 1);
         s.append('1');
         backTrack(n, idx + 1, s);
-        s.deleteCharAt(idx);
+        s.deleteCharAts.length() - 1);
         return;
     }
 }
