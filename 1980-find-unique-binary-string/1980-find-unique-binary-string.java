@@ -20,7 +20,7 @@ class Solution {
         s.deleteCharAt(s.length() - 1);
         s.append('1');
         backTrack(n, idx + 1, s);
-        s.deleteCharAts.length() - 1);
+        s.deleteCharAt(s.length() - 1);
         return;
     }
 }
