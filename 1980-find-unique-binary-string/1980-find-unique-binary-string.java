@@ -3,8 +3,10 @@ class Solution {
     public String findDifferentBinaryString(String[] nums) {
         backTrack (nums[0].length(), 0,  new StringBuilder());
         // System.out.println(All);
+        Set<String> set = new HashSet<>(Arrays.asList(nums));
+
         for (String s : All) {
-            if (!Arrays.asList(nums).contains(s)) return s;
+            if (!set.contains(s)) return s;
         }
         return "";
     }
