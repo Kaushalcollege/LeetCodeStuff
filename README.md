@@ -49,10 +49,12 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1980-find-unique-binary-string/) | Medium |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,8 +124,17 @@ As you can see from my profile, my primary languages for problem-solving are:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0070-climbing-stairs/) | Easy |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0070-climbing-stairs/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 <!---LeetCode Topics End-->
