@@ -1,29 +1,40 @@
 class Solution {
-    Queue<String> res = new PriorityQueue<>();
+
+    private static char[] ALLOWED_LETTERS = { 'a', 'b', 'c' };
+
+    private int happyStringCount;
+    private String kthHappyString;
+
     public String getHappyString(int n, int k) {
-        char[] chars = {'a','b','c'};
-        f (n, new StringBuilder(), chars);
-        // Collections.sort(res);
-        if (k > res.size()) return "";
-        String element = "";
-        for (int i = 0; i < k; i++) {
-            element = res.poll();
-        }
-        return element;
+        this.happyStringCount = 0;
+        this.kthHappyString = "";
+        kthHappyStringHelper(new StringBuilder(), n, k);
+        return happyStringCount >= k ? kthHappyString : "";
     }
 
-    private void f (int n, StringBuilder sb, char[] chars) {
-        if (sb.length() == n) {
-            res.add(sb.toString());
+    private void kthHappyStringHelper(StringBuilder currStr, int n, int k) {
+
+        int currStrSize = currStr.length();
+
+        if (currStrSize == n) {
+            happyStringCount++;
+            if (happyStringCount == k) {
+                kthHappyString = currStr.toString();
+            }
             return;
         }
 
-        for (char c : chars) {
-            if (sb.length() > 0 && sb.charAt(sb.length() - 1) == c) continue;
+        for (char c : ALLOWED_LETTERS) {
 
-            sb.append(c);
-            f(n, sb, chars);
-            sb.deleteCharAt(sb.length() - 1);
+            if (currStrSize > 0 && c == currStr.charAt(currStrSize - 1))
+                continue;
+
+            currStr.append(c);
+            kthHappyStringHelper(currStr, n, k);
+            currStr.deleteCharAt(currStrSize);
+
+            if (happyStringCount == k)
+                return;
         }
     }
 }
