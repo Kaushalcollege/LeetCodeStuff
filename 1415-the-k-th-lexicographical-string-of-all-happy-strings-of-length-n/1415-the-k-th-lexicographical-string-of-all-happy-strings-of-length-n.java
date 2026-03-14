@@ -1,11 +1,15 @@
 class Solution {
-    ArrayList<String> res = new ArrayList<>();
+    Queue<String> res = new PriorityQueue<>();
     public String getHappyString(int n, int k) {
         char[] chars = {'a','b','c'};
         f (n, new StringBuilder(), chars);
-        Collections.sort(res);
+        // Collections.sort(res);
         if (k > res.size()) return "";
-        return res.get(k - 1);
+        String element = "";
+        for (int i = 0; i < k; i++) {
+            element = res.poll();
+        }
+        return element;
     }
 
     private void f (int n, StringBuilder sb, char[] chars) {
