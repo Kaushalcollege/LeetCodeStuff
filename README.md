@@ -127,6 +127,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0070-climbing-stairs/) | Easy |
+| [1622-fancy-sequence](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1622-fancy-sequence/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
@@ -154,8 +155,13 @@ As you can see from my profile, my primary languages for problem-solving are:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0901-online-stock-span/) | Medium |
+| [1622-fancy-sequence](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1622-fancy-sequence/) | Hard |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0901-online-stock-span/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1622-fancy-sequence](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1622-fancy-sequence/) | Hard |
 <!---LeetCode Topics End-->
