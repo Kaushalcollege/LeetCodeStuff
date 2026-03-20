@@ -9,7 +9,7 @@ class Solution {
                 // List<Integer> subMatrix = new ArrayList<>();
                 // int[] subMatrix = new int[k * k];
                 Set<Integer> subMatrix = new HashSet<>();
-                int idx = 0;
+                // int idx = 0;
                 for (int l = i; l < i + k; l++) {
                     for (int z = j; z < j + k; z++) {
                         subMatrix.add(grid[l][z]);
@@ -18,11 +18,11 @@ class Solution {
                 }
                 List<Integer> subMatrixList = new ArrayList<>(subMatrix);
                 Collections.sort(subMatrixList);
-                int min = Integer.MAX_VALUE;
+                int min = 200000;
                 for (int l = 1; l < subMatrixList.size(); l++) {
                     min = Math.min(min, Math.abs(subMatrixList.get(l) - subMatrixList.get(l - 1)));
                 }
-                ans[i][j] = (min == Integer.MAX_VALUE) ? 0 : min;
+                ans[i][j] = (min == 200000) ? 0 : min;
             }
         }
         return ans;
