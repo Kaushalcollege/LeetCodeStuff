@@ -18,11 +18,11 @@ class Solution {
                 }
                 List<Integer> subMatrixList = new ArrayList<>(subMatrix);
                 Collections.sort(subMatrixList);
-                int min = 200000;
+                int min = 2000000;
                 for (int l = 1; l < subMatrixList.size(); l++) {
                     min = Math.min(min, Math.abs(subMatrixList.get(l) - subMatrixList.get(l - 1)));
                 }
-                ans[i][j] = (min == 200000) ? 0 : min;
+                ans[i][j] = (min == 2000000) ? 0 : min;
             }
         }
         return ans;
