@@ -6,9 +6,9 @@ class Solution {
 
         for (int i = 0; i < m - k + 1; i++) {
             for (int j = 0; j < n - k + 1; j++) {
-                // List<Integer> subMatrix = new ArrayList<>();
+                List<Integer> subMatrix = new ArrayList<>();
                 // int[] subMatrix = new int[k * k];
-                Set<Integer> subMatrix = new HashSet<>();
+                // Set<Integer> subMatrix = new HashSet<>();
                 // int idx = 0;
                 for (int l = i; l < i + k; l++) {
                     for (int z = j; z < j + k; z++) {
@@ -16,11 +16,13 @@ class Solution {
                         // subMatrix[idx++] = grid[l][z];
                     }
                 }
-                List<Integer> subMatrixList = new ArrayList<>(subMatrix);
-                Collections.sort(subMatrixList);
+                // List<Integer> subMatrixList = new ArrayList<>(subMatrix);
+                Collections.sort(subMatrix);
+                // Collections.sort(subMatrixList);
                 int min = 2000000;
-                for (int l = 1; l < subMatrixList.size(); l++) {
-                    min = Math.min(min, Math.abs(subMatrixList.get(l) - subMatrixList.get(l - 1)));
+                for (int l = 1; l < subMatrix.size(); l++) {
+                    if (subMatrix.get(l).equals(subMatrix.get(l - 1))) continue;
+                    min = Math.min(min, Math.abs(subMatrix.get(l) - subMatrix.get(l - 1)));
                 }
                 ans[i][j] = (min == 2000000) ? 0 : min;
             }
