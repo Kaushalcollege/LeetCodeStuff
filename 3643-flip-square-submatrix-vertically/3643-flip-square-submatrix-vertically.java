@@ -8,12 +8,12 @@ class Solution {
             for (int j = y; j < y + k; j++) {
                 curr[idx++] = grid[i][j];
             }
-            System.out.println(Arrays.toString(curr));
+            // System.out.println(Arrays.toString(curr));
             idx = 0;
             for (int j = y; j < y + k; j++) {
                 last[idx++] = grid[i + k - ptr][j];
             }
-            System.out.println(Arrays.toString(last));
+            // System.out.println(Arrays.toString(last));
             idx = 0;
             int idx1 = 0;
             for (int j = y; j < y + k; j++) {
