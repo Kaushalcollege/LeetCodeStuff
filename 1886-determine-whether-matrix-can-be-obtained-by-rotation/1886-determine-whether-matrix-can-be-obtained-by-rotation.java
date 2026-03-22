@@ -1,41 +1,26 @@
 class Solution {
     public boolean findRotation(int[][] mat, int[][] target) {
+        int rotation = 0;
         int n = mat.length;
-        // int[][] ck = new int[n][n];
+        int[][] res = new int[n][n];
 
-        /*
-            if n == 3 :
-            0   0   0          0   0   0
-            0   0   0          0   1   0
-            0   0   0  <- i -> 1   1   1
-                               ^
-                               j
-        */
-
-        for (int r = 0; r < 4; r++) {
-            if (isSame(mat, target)) return true;
-
-            int[][] ck = new int[n][n];
-
-            for (int i = n - 1; i >= 0; i--) { 
-                for (int j = 0; j < n; j++) { 
-                    ck[n - j - 1][n - i - 1] = mat[i][n - j - 1]; 
-                } 
+        // Flip the matrix clockwise using nested loops
+        while (rotation != 360) {
+            for (int i = 0; i < n; i++) {
+                for (int j = 0; j < n; j++) {
+                    res[j][n - i - 1] = mat[i][j];
+                }
             }
-
-            mat = ck; 
+            for (int i = 0; i < n; i++) {
+                System.arraycopy(res[i], 0, mat[i], 0, n);
+            }
+            rotation += 90;
+            if (Arrays.deepEquals(target, res)) return true;
         }
 
+        // for (int i = 0; i < n; i++) {
+        //     System.arraycopy(res[i], 0, mat[i], 0, n);
+        // }
         return false;
-    }
-
-    private boolean isSame(int[][] a, int[][] b) {
-        int n = a.length;
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                if (a[i][j] != b[i][j]) return false;
-            }
-        }
-        return true;
     }
 }
