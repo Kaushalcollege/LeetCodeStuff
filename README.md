@@ -66,6 +66,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Matrix
@@ -88,6 +89,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -182,6 +184,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0901-online-stock-span/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
