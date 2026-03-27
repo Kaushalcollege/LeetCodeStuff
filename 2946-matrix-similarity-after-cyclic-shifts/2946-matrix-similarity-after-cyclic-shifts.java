@@ -12,7 +12,7 @@ class Solution {
 
         while (k-- > 0) {
             for (int i = 0; i < ck.length; i++) shift(ck[i], i);
-            for (int[] row : ck) System.out.println(Arrays.toString(row));
+            // for (int[] row : ck) System.out.println(Arrays.toString(row));
             // if (Arrays.deepEquals(mat, ck)) return true;
         }
 
