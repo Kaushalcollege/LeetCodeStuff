@@ -44,6 +44,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0179-largest-number](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0179-largest-number/) | Medium |
 | [0645-set-mismatch](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0645-set-mismatch/) | Easy |
 | [0739-daily-temperatures](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0739-daily-temperatures/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -66,6 +67,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0179-largest-number](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0179-largest-number/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -90,6 +92,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0179-largest-number](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0179-largest-number/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -142,6 +145,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0179-largest-number](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0179-largest-number/) | Medium |
 | [0645-set-mismatch](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
