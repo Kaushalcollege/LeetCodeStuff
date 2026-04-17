@@ -1,18 +1,49 @@
 class Solution {
     public int minMirrorPairDistance(int[] nums) {
-        Map<Integer, Integer> map = new HashMap<>();
+        if (nums.length == 1) return -1;
         int n = nums.length;
-        int min = n + 1;
+        // System.out.println(rev(12000));
+        // 1 <= nums.length <= 10^5, meaning solution -- O(n) or O(logn)
+
+        int min = 100001;
+        // O(n^2)
+        // for (int x = 0; x < n; x++) {
+        //     int ele = nums[x];
+        //     for (int y = x + 1; y < n; y++) {
+        //         // if (ele == rev(nums[y])) min = Math.min(min, y - x);
+        //         if (rev(ele) == nums[y]) min = Math.min(min, y - x);
+        //         else continue;
+        //     }
+        // }
+
+        // O(n)
+        Map<Integer, List<Integer>> map = new HashMap<>();
+        // map.put(nums[n - 1], new ArrayList<>());
+        // map.get(nums[n - 1]).add(n - 1);
 
         for (int x = 0; x < n; x++) {
-            int ele = nums[x];
+            if (map.containsKey(nums[x])) {
+                int size = map.get(nums[x]).size();
+                int diff = Math.abs(x - map.get(nums[x]).get(size - 1));
+                // min = Math.min(min, Math.abs(x - map.get(rev(nums[x])).get(size - 1)));
+                if (min > diff) min = diff;
+                map.get(nums[x]).add(x);
+                map.put(rev(nums[x]), new ArrayList<>());
+                map.get(rev(nums[x])).add(x);
+            }
+            // else if (map.containsKey(nums[x])) {
 
-            if (map.containsKey(ele)) min = Math.min(min, x - map.get(ele));
-            map.put(rev(ele), x);
+            // }
+            else {
+                map.put(rev(nums[x]), new ArrayList<>());
+                map.get(rev(nums[x])).add(x);
+            }
         }
 
-        return min == n + 1 ? -1 : min;
+        // System.out.println(map);
+        return min == 100001 ? -1 : min;
     }
+
     private int rev (int x) {
         // Digit Reverse.
         int rev = 0;
