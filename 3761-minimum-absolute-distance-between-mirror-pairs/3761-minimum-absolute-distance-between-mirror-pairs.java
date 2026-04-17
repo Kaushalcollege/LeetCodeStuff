@@ -24,7 +24,9 @@ class Solution {
         for (int x = n - 1; x >= 0; x--) {
             if (map.containsKey(rev(nums[x]))) {
                 int size = map.get(rev(nums[x])).size();
-                min = Math.min(min, Math.abs(x - map.get(rev(nums[x])).get(size - 1)));
+                int diff = Math.abs(x - map.get(rev(nums[x])).get(size - 1));
+                // min = Math.min(min, Math.abs(x - map.get(rev(nums[x])).get(size - 1)));
+                if (min > diff) min = diff;
                 map.get(rev(nums[x])).add(x);
                 map.put(nums[x], new ArrayList<>());
                 map.get(nums[x]).add(x);
@@ -38,7 +40,7 @@ class Solution {
             }
         }
 
-        System.out.println(map);
+        // System.out.println(map);
         return min == 100001 ? -1 : min;
     }
 
