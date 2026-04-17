@@ -28,15 +28,17 @@ class Solution {
                 // min = Math.min(min, Math.abs(x - map.get(rev(nums[x])).get(size - 1)));
                 if (min > diff) min = diff;
                 map.get(nums[x]).add(x);
-                map.put(rev(nums[x]), new ArrayList<>());
-                map.get(rev(nums[x])).add(x);
+                int y = rev(nums[x]);
+                map.put(y, new ArrayList<>());
+                map.get(y).add(x);
             }
             // else if (map.containsKey(nums[x])) {
 
             // }
             else {
-                map.put(rev(nums[x]), new ArrayList<>());
-                map.get(rev(nums[x])).add(x);
+                int y = rev(nums[x]);
+                map.put(y, new ArrayList<>());
+                map.get(y).add(x);
             }
         }
 
