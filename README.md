@@ -217,6 +217,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3783-mirror-distance-of-an-integer](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
