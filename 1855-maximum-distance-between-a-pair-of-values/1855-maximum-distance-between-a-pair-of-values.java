@@ -19,7 +19,7 @@ class Solution {
             if (nums1[ptr1] > nums2[ptr2]) {
                 // if (ptr2 - ptr1 > max_dist) max_dist = ptr2 - ptr1;
                 ptr1++;
-                ptr2 = ptr1;
+                ptr2++;
             }
             else {
                 // int c = -1;
