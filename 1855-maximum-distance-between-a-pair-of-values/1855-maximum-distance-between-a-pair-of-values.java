@@ -30,7 +30,7 @@ class Solution {
                 // if (c > max_dist) max_dist = c;
                 // ptr1++;
                 // ptr2 = ptr1;
-                if (ptr2 - ptr1 > max_dist) max_dist = ptr2 - ptr1;
+                max_dist = Math.max(max_dist, ptr2 - ptr1);
                 ptr2++;
                 
             }
