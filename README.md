@@ -58,6 +58,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2751-robot-collisions](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2751-robot-collisions/) | Hard |
@@ -84,6 +85,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
