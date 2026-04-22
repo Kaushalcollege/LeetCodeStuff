@@ -6,12 +6,13 @@ class Solution {
 
         for (String q : queries) {
             for (String d : dictionary) {
-                int c = 0;
+                int c = 2;
                 for (int x = 0; x < d.length(); x++) {
-                    if (q.charAt(x) != d.charAt(x)) c++;
+                    if (q.charAt(x) != d.charAt(x)) c--;
+                    if (c < 0) break;
                 }
 
-                if (c <= 2) {
+                if (c >= 0) {
                     res.add(q);
                     break;
                 }
