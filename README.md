@@ -116,6 +116,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | ------- | ------- |
 | [0179-largest-number](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0179-largest-number/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0657-robot-return-to-origin/) | Easy |
+| [1108-defanging-an-ip-address](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
