@@ -1,51 +1,32 @@
 class Solution {
     public String removeKdigits(String num, int k) {
-        // int n = Integer.parseInt(num);
-        if (num.length() == 1) return "0";
-        Stack<Character> s = new Stack<>();
-        int idx = 0;
+        Stack<Character> stack = new Stack<>();
 
-        while (idx < num.length()) {
-            char n = num.charAt(idx);
-            if (s.isEmpty()) {
-                s.push(n);
-                idx++;
-                // System.out.println(s + " " + "is Empty");
-                continue;
-            }
-            else if (!s.isEmpty() && s.peek() <= n && k > 0) {
-                s.push(n);
-                idx++;
-                // System.out.println(s + " " + "less than");
-                continue;
-            }
-            else if (!s.isEmpty() && s.peek() > n && k > 0){
-                while(!s.isEmpty() && s.peek() > n && k > 0) {
-                    s.pop();
-                    k--;
-                }
-                s.push(n);
-                idx++;
-                // System.out.println(s + " " + "greater than");
-                continue;
-            }
-            else {
-                s.push(n);
-                idx++;
-                continue;
-            }
-        }
-        if (k > 0) {
-            while (k > 0) {
-                s.pop();
+        for (char digit : num.toCharArray()) {
+
+            // remove bigger previous digits
+            while (!stack.isEmpty() && k > 0 && stack.peek() > digit) {
+                stack.pop();
                 k--;
             }
+
+            stack.push(digit);
         }
 
-        String str = "";
-        for (char c : s) str += String.valueOf(c);
+        // if removals still left, remove from end
+        while (k > 0) {
+            stack.pop();
+            k--;
+        }
 
-        // return str + num.substring(idx);
-        return str.equals("") ? "0" : str.replaceFirst("^0+(?!$)", "");
+        // build result
+        StringBuilder sb = new StringBuilder();
+        for (char c : stack) sb.append(c);
+
+        // remove leading zeros
+        String result = sb.toString().replaceFirst("^0+(?!$)", "");
+
+        // handle empty case
+        return result.isEmpty() ? "0" : result;
     }
 }
