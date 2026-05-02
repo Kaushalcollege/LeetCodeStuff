@@ -151,6 +151,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0342-power-of-four](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0342-power-of-four/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -208,6 +209,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0342-power-of-four](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0342-power-of-four/) | Easy |
 | [0645-set-mismatch](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0645-set-mismatch/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Sorting
@@ -247,6 +249,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0070-climbing-stairs/) | Easy |
+| [0342-power-of-four](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0342-power-of-four/) | Easy |
 | [0396-rotate-function](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0788-rotated-digits/) | Medium |
 | [1622-fancy-sequence](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1622-fancy-sequence/) | Hard |
