@@ -94,6 +94,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0179-largest-number](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0179-largest-number/) | Medium |
+| [0402-remove-k-digits](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0402-remove-k-digits/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -129,6 +130,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0179-largest-number](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0179-largest-number/) | Medium |
+| [0402-remove-k-digits](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0402-remove-k-digits/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1108-defanging-an-ip-address/) | Easy |
@@ -281,6 +283,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0402-remove-k-digits/) | Medium |
 | [0739-daily-temperatures](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0901-online-stock-span/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
@@ -288,6 +291,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0402-remove-k-digits/) | Medium |
 | [0739-daily-temperatures](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0901-online-stock-span/) | Medium |
 ## Design
