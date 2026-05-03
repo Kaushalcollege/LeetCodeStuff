@@ -132,6 +132,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [0179-largest-number](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0179-largest-number/) | Medium |
 | [0402-remove-k-digits](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0402-remove-k-digits/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0796-rotate-string](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0796-rotate-string/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -329,6 +330,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0796-rotate-string](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0796-rotate-string/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
