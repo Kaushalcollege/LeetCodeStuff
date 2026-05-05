@@ -315,6 +315,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0061-rotate-list/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -358,4 +359,8 @@ As you can see from my profile, my primary languages for problem-solving are:
 | ------- | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0061-rotate-list/) | Medium |
 <!---LeetCode Topics End-->
