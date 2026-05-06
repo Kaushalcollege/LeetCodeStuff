@@ -44,6 +44,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0015-3sum/) | Medium |
 | [0048-rotate-image](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0048-rotate-image/) | Medium |
 | [0179-largest-number](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0179-largest-number/) | Medium |
 | [0396-rotate-function](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0396-rotate-function/) | Medium |
@@ -220,6 +221,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0015-3sum/) | Medium |
 | [0179-largest-number](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0179-largest-number/) | Medium |
 | [0506-relative-ranks](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0506-relative-ranks/) | Easy |
 | [0645-set-mismatch](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0645-set-mismatch/) | Easy |
@@ -315,6 +317,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0015-3sum/) | Medium |
 | [0061-rotate-list](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0061-rotate-list/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
