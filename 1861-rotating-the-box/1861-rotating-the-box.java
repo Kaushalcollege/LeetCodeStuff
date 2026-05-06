@@ -45,7 +45,7 @@ class Solution {
             }
         }
 
-        for (char[] a : res) System.out.println(Arrays.toString(a));
+        // for (char[] a : res) System.out.println(Arrays.toString(a));
 
         // return new char[0][0];
         return res;
