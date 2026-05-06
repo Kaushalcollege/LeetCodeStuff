@@ -24,7 +24,7 @@ class Solution {
             }
         }
 
-        for (char[] a : res) System.out.println(Arrays.toString(a));
+        // for (char[] a : res) System.out.println(Arrays.toString(a));
         // Lastly, do a move all zeros to the last approach.
 
         for (int x = 0; x < m; x++) {
@@ -44,6 +44,8 @@ class Solution {
                 }
             }
         }
+
+        for (char[] a : res) System.out.println(Arrays.toString(a));
 
         // return new char[0][0];
         return res;
