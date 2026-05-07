@@ -149,6 +149,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -169,6 +170,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2751-robot-collisions](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Database
@@ -295,6 +297,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [0739-daily-temperatures](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0901-online-stock-span/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2751-robot-collisions](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2751-robot-collisions/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
