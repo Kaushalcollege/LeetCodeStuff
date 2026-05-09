@@ -1,49 +1,49 @@
 class Solution {
     public int[][] rotateGrid(int[][] grid, int k) {
         int m = grid.length, n = grid[0].length;
-        int startRow = 0, endRow = m - 1, startCol = 0, endCol = n - 1;
+
+        int startRow = 0, endRow = m - 1;
+        int startCol = 0, endCol = n - 1;
 
         while (startRow < endRow && startCol < endCol) {
+
             int perimeter =
                     2 * (endRow - startRow + endCol - startCol);
 
             int w = k % perimeter;
+
             while (w-- > 0) {
-                // top row :
-            int firstRowFirstCol = grid[startRow][startCol];
-            for (int x = startCol; x < endCol; x++) grid[startRow][x] = grid[startRow][x + 1];
 
-            // first col :
-            int lastRowFirstCol = grid[endRow][startCol];
-            for (int x = endRow; x > startRow; x--) {
-                if (x != startRow + 1) grid[x][startCol] = grid[x - 1][startCol];
-                else grid[x][startCol] = firstRowFirstCol;
-            }
+                int temp = grid[startRow][startCol];
 
-            // last Row :
-            int lastRowLastCol = grid[endRow][endCol];
-            for (int x = endCol; x > startCol; x--) {
-                if (x != startCol + 1) grid[endRow][x] = grid[endRow][x - 1];
-                else grid[endRow][x] = lastRowFirstCol;
-            }
+                // top row
+                for (int j = startCol; j < endCol; j++) {
+                    grid[startRow][j] = grid[startRow][j + 1];
+                }
 
-            // last Col :
-            int firstRowLastCol = grid[startRow][endCol];
-            for (int x = startRow; x < endRow; x++) {
-                if (x != endRow - 1) grid[x][endCol] = grid[x + 1][endCol];
-                else grid[x][endCol] = lastRowLastCol;
-            }
-        // for (int[] g : grid) System.out.println(Arrays.toString(g));
+                // right col
+                for (int i = startRow; i < endRow; i++) {
+                    grid[i][endCol] = grid[i + 1][endCol];
+                }
+
+                // bottom row
+                for (int j = endCol; j > startCol; j--) {
+                    grid[endRow][j] = grid[endRow][j - 1];
+                }
+
+                // left col
+                for (int i = endRow; i > startRow + 1; i--) {
+                    grid[i][startCol] = grid[i - 1][startCol];
+                }
+
+                grid[startRow + 1][startCol] = temp;
             }
 
             startRow++;
             endRow--;
             startCol++;
             endCol--;
-        // for (int[] g : grid) System.out.println(Arrays.toString(g));
         }
-
-        // for (int[] g : grid) System.out.println(Arrays.toString(g));
 
         return grid;
     }
