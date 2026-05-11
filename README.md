@@ -47,6 +47,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [0015-3sum](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0018-4sum/) | Medium |
 | [0048-rotate-image](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0048-rotate-image/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0179-largest-number](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0179-largest-number/) | Medium |
 | [0396-rotate-function](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0396-rotate-function/) | Medium |
@@ -212,6 +213,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0645-set-mismatch](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0645-set-mismatch/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -354,6 +356,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
