@@ -2,6 +2,7 @@ class Solution {
     public int longestConsecutive(int[] s) {
 
         int n = s.length, longest = 1;
+        if (n == 0) return n;
 
         for (int x : s) {
             int cnt = 1;
