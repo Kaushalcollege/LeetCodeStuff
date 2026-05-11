@@ -47,6 +47,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [0015-3sum](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0018-4sum/) | Medium |
 | [0048-rotate-image](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0048-rotate-image/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0179-largest-number](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0179-largest-number/) | Medium |
 | [0396-rotate-function](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0396-rotate-function/) | Medium |
 | [0506-relative-ranks](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0506-relative-ranks/) | Easy |
@@ -293,6 +294,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
@@ -339,6 +341,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [0015-3sum](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0018-4sum/) | Medium |
 | [0061-rotate-list](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0061-rotate-list/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1861-rotating-the-box/) | Medium |
