@@ -73,6 +73,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2553-separate-the-digits-in-an-array](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2615-sum-of-distances](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2615-sum-of-distances/) | Medium |
 | [2751-robot-collisions](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2751-robot-collisions/) | Hard |
@@ -178,6 +179,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [2069-walking-robot-simulation-ii](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2553-separate-the-digits-in-an-array](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2751-robot-collisions](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Database
