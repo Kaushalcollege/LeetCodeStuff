@@ -1,28 +1,23 @@
 class Solution {
-    public int longestConsecutive(int[] s) {
-
-        int n = s.length, longest = 1;
+    public int longestConsecutive(int[] nums) {
+        Arrays.sort(nums);
+        int n = nums.length;
         if (n == 0) return n;
+        int lastSmallest = Integer.MIN_VALUE, longest = 1, curr = 0;
 
-        for (int x : s) {
-            int cnt = 1;
-
-            while (linearSearch(s, x + 1) == true) {
-                x += 1;
-                cnt += 1;
+        for (int x = 0; x < n; x++) {
+            if (nums[x] - 1 == lastSmallest) {
+                curr += 1;
+                lastSmallest = nums[x];
+            }
+            else if (nums[x] != lastSmallest) {
+                curr = 1;
+                lastSmallest = nums[x];
             }
 
-            longest = Math.max(cnt, longest);
+            longest = Math.max(longest, curr);
         }
 
         return longest;
-    }
-
-    public boolean linearSearch(int arr[], int target) {
-        boolean found = false;
-
-        for (int x : arr) if (x == target) found = true;
-
-        return found;
     }
 }
