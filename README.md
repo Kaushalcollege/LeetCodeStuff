@@ -63,6 +63,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [1559-detect-cycles-in-2d-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -108,6 +109,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [0402-remove-k-digits](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0402-remove-k-digits/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -246,6 +248,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [0506-relative-ranks](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0506-relative-ranks/) | Easy |
 | [0645-set-mismatch](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
