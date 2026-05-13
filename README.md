@@ -50,6 +50,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [0128-longest-consecutive-sequence](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0179-largest-number](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0179-largest-number/) | Medium |
+| [0200-number-of-islands](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0200-number-of-islands/) | Medium |
 | [0396-rotate-function](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0396-rotate-function/) | Medium |
 | [0506-relative-ranks](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0506-relative-ranks/) | Easy |
 | [0645-set-mismatch](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0645-set-mismatch/) | Easy |
@@ -119,6 +120,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0048-rotate-image/) | Medium |
+| [0200-number-of-islands](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0200-number-of-islands/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -360,6 +362,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0200-number-of-islands](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0200-number-of-islands/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -376,6 +379,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0200-number-of-islands/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -390,6 +394,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0200-number-of-islands/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
