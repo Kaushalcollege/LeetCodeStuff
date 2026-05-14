@@ -1,19 +1,19 @@
 class Solution {
     public boolean isGood(int[] nums) {
-        int base = nums.length - 1;
 
-        boolean[] seen = new boolean[base + 1];
+        int n = 0;
 
-        for (int x : nums) {
-            if (x < base + 1 && !seen[x]) seen[x] = true;
-            else if (x < base && seen[x]) return false;
-            else if (seen[base] && x == base) seen[0] = true;
-        }
-        // seen[0] = true;
-        System.out.println(Arrays.toString(seen));
+        // find max element
+        for (int num : nums) n = Math.max(n, num);
+        
+        // size check
+        if (nums.length != n + 1) return false;
 
-        for (boolean x : seen) if (!x) return false;
+        int[] freq = new int[201];
 
-        return true;
+        for (int num : nums) freq[num]++;
+
+        for (int x = 1; x < n; x++) if (freq[x] != 1) return false;
+        return freq[n] == 2;
     }
 }
