@@ -54,6 +54,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [0396-rotate-function](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0396-rotate-function/) | Medium |
 | [0506-relative-ranks](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0506-relative-ranks/) | Easy |
 | [0645-set-mismatch](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0645-set-mismatch/) | Easy |
+| [0733-flood-fill](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0739-daily-temperatures/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -124,6 +125,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0048-rotate-image/) | Medium |
 | [0200-number-of-islands](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0200-number-of-islands/) | Medium |
+| [0733-flood-fill](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0733-flood-fill/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -390,6 +392,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0200-number-of-islands/) | Medium |
+| [0733-flood-fill](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0733-flood-fill/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -405,6 +408,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0200-number-of-islands/) | Medium |
+| [0733-flood-fill](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0733-flood-fill/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
