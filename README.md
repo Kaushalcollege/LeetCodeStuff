@@ -76,6 +76,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [1980-find-unique-binary-string](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2248-intersection-of-multiple-arrays](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -225,6 +226,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2248-intersection-of-multiple-arrays](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2615-sum-of-distances](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2615-sum-of-distances/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -258,6 +260,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2248-intersection-of-multiple-arrays](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2751-robot-collisions](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2751-robot-collisions/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -268,6 +271,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [2248-intersection-of-multiple-arrays](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
