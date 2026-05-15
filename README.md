@@ -54,6 +54,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [0200-number-of-islands](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0200-number-of-islands/) | Medium |
 | [0396-rotate-function](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0396-rotate-function/) | Medium |
 | [0506-relative-ranks](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0506-relative-ranks/) | Easy |
+| [0561-array-partition](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0561-array-partition/) | Easy |
 | [0645-set-mismatch](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0645-set-mismatch/) | Easy |
 | [0733-flood-fill](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0739-daily-temperatures/) | Medium |
@@ -113,6 +114,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | ------- | ------- |
 | [0179-largest-number](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0179-largest-number/) | Medium |
 | [0402-remove-k-digits](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0402-remove-k-digits/) | Medium |
+| [0561-array-partition](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0561-array-partition/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -257,6 +259,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [0018-4sum](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0018-4sum/) | Medium |
 | [0179-largest-number](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0179-largest-number/) | Medium |
 | [0506-relative-ranks](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0506-relative-ranks/) | Easy |
+| [0561-array-partition](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0561-array-partition/) | Easy |
 | [0645-set-mismatch](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -273,6 +276,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0561-array-partition](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0561-array-partition/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2833-furthest-point-from-origin/) | Easy |
