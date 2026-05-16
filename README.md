@@ -156,6 +156,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0179-largest-number](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0179-largest-number/) | Medium |
 | [0402-remove-k-digits](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0402-remove-k-digits/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -222,10 +223,12 @@ As you can see from my profile, my primary languages for problem-solving are:
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0645-set-mismatch](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0645-set-mismatch/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0874-walking-robot-simulation/) | Medium |
