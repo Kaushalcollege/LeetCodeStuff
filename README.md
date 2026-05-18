@@ -48,6 +48,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [0018-4sum](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0018-4sum/) | Medium |
 | [0048-rotate-image](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0048-rotate-image/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0130-surrounded-regions/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -128,6 +129,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0048-rotate-image/) | Medium |
+| [0130-surrounded-regions](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0733-flood-fill/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -385,6 +387,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0200-number-of-islands/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -402,6 +405,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0733-flood-fill/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -418,6 +422,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0733-flood-fill/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
