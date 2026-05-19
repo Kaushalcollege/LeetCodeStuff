@@ -1,6 +1,6 @@
 class Solution {
     public void solve(char[][] grid) {
-        int m = grid.length, n = grid3[0].length;
+        int m = grid.length, n = grid[0].length;
         boolean[][] v = new boolean[m][n];
 
         Queue<int[]> q = new LinkedList<>();
