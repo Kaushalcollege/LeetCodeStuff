@@ -19,6 +19,7 @@ class Solution {
             if (Character.isLowerCase(c) && !set.contains(Character.toUpperCase(c))) set.add(c);
             else if (!set.contains(c) && Character.isLowerCase(c) && set.contains(Character.toUpperCase(c))) {
                 cnt++;
+                set.add(c);
                 // set.remove(Character.toUpperCase(c));
                 // System.out.println("1");
             }
