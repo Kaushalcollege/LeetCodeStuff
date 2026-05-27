@@ -13,8 +13,8 @@ class Solution {
         for (int x = 65; x < 91; x++) {
             if (freq[x] != -1 && freq[x + 32] != -1) {
                 if (freq[x] > freq[x + 32]) {
-                    System.out.println(x);
-                    System.out.println(x + 32);
+                    // System.out.println(x);
+                    // System.out.println(x + 32);
                     count++;
                 }
             }
