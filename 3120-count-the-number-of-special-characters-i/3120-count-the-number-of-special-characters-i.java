@@ -16,9 +16,12 @@ class Solution {
         int cnt = 0;
 
         for (char c : word.toCharArray()) {
-            if (Character.isLowerCase(c)) set.add(c);
+            if (Character.isLowerCase(c) && !set.contains(Character.toUpperCase(c))) set.add(c);
+            else if (Character.isLowerCase(c) && set.contains(Character.toUpperCase(c))) cnt++;
             else {
                 if (set.contains(Character.toLowerCase(c))) cnt++;
+                // else if (set.isEmpty()) set.add(c);
+                else set.add(c);
             }
         }
 
