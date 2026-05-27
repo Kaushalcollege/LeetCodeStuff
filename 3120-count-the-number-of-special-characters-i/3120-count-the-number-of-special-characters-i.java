@@ -17,9 +17,15 @@ class Solution {
 
         for (char c : word.toCharArray()) {
             if (Character.isLowerCase(c) && !set.contains(Character.toUpperCase(c))) set.add(c);
-            else if (Character.isLowerCase(c) && set.contains(Character.toUpperCase(c))) cnt++;
+            else if (Character.isLowerCase(c) && set.contains(Character.toUpperCase(c))) {
+                cnt++;
+                set.remove(Character.toUpperCase(c));
+            }
             else {
-                if (set.contains(Character.toLowerCase(c))) cnt++;
+                if (set.contains(Character.toLowerCase(c))) {
+                    cnt++;
+                    set.remove(Character.toLowerCase(c));
+                }
                 // else if (set.isEmpty()) set.add(c);
                 else set.add(c);
             }
