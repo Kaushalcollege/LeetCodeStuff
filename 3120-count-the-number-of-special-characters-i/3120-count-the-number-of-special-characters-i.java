@@ -1,15 +1,27 @@
 class Solution {
     public int numberOfSpecialChars(String word) {
-        Map<Character, Boolean> map = new HashMap<>();
+        // boolean[][] freq = new boolean[26][2];
+        // int c = 0;
 
-        for (char c : word.toCharArray()) map.put(c, true);
-        int c = 0;
-        for (int x = 65; x < 91; x++) {
-            if (map.containsKey((char)x) && map.containsKey((char)(x + 32))) c++;
-            
+        // for (char x : word.toCharArray()) {
+        //     if (x - 'a' > 0) freq[x - 'a'][0] = true;
+        //     else freq[x - 'A'][1] = true;
+        //     if (freq[x - 'a'][0] && freq[x - 'A'][1]) c++;
+        // }
+
+
+        // return c;
+
+        Set<Character> set = new HashSet<>();
+        int cnt = 0;
+
+        for (char c : word.toCharArray()) {
+            if (Character.isLowerCase(c)) set.add(c);
+            else {
+                if (set.contains(Character.toLowerCase(c))) cnt++;
+            }
         }
 
-
-        return c;
+        return cnt;
     }
 }
