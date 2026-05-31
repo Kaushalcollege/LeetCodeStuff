@@ -14,7 +14,7 @@ class Solution {
 
         // How do I get it to O(n)?
 
-        int min = 100001;
+        int min = 10001;
         int max = 0;
 
         for (int x : asteroids) {
