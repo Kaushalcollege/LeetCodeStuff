@@ -85,6 +85,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2248-intersection-of-multiple-arrays](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -207,6 +208,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [1914-cyclically-rotating-a-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2751-robot-collisions](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2751-robot-collisions/) | Hard |
@@ -398,6 +400,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [0821-shortest-distance-to-a-character](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1861-rotating-the-box/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2540-minimum-common-value/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Enumeration
