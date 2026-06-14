@@ -198,6 +198,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0206-reverse-linked-list/) | Easy |
 | [0342-power-of-four](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0342-power-of-four/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
@@ -464,6 +465,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0061-rotate-list/) | Medium |
+| [0206-reverse-linked-list](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0206-reverse-linked-list/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
