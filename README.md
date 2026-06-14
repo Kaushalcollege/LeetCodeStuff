@@ -371,6 +371,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [0739-daily-temperatures](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0901-online-stock-span/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2751-robot-collisions](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2751-robot-collisions/) | Hard |
 ## Monotonic Stack
@@ -405,6 +406,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [0821-shortest-distance-to-a-character](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1861-rotating-the-box/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2540-minimum-common-value/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -462,6 +464,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0061-rotate-list/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
