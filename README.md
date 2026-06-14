@@ -47,6 +47,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [0015-3sum](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0018-4sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0048-rotate-image/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0130-surrounded-regions/) | Medium |
@@ -220,6 +221,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0042-trapping-rain-water/) | Hard |
 | [0070-climbing-stairs](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0070-climbing-stairs/) | Easy |
 | [0396-rotate-function](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0788-rotated-digits/) | Medium |
@@ -364,6 +366,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0042-trapping-rain-water/) | Hard |
 | [0402-remove-k-digits](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0402-remove-k-digits/) | Medium |
 | [0739-daily-temperatures](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0901-online-stock-span/) | Medium |
@@ -373,6 +376,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0042-trapping-rain-water/) | Hard |
 | [0402-remove-k-digits](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0402-remove-k-digits/) | Medium |
 | [0739-daily-temperatures](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0901-online-stock-span/) | Medium |
@@ -395,6 +399,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | ------- | ------- |
 | [0015-3sum](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0018-4sum/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0061-rotate-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0821-shortest-distance-to-a-character/) | Easy |
