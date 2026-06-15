@@ -407,6 +407,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [0821-shortest-distance-to-a-character](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1861-rotating-the-box/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2540-minimum-common-value/) | Easy |
@@ -466,6 +467,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0061-rotate-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0206-reverse-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
