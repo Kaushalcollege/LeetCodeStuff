@@ -195,6 +195,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [3120-count-the-number-of-special-characters-i](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3612-process-string-with-special-operations-i](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -215,6 +216,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [2553-separate-the-digits-in-an-array](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2751-robot-collisions](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
