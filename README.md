@@ -335,6 +335,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [0342-power-of-four](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0342-power-of-four/) | Easy |
 | [0396-rotate-function](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0788-rotated-digits/) | Medium |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1622-fancy-sequence](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
