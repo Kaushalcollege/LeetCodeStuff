@@ -82,6 +82,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -184,6 +185,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2390-removing-stars-from-a-string/) | Medium |
