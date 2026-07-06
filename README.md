@@ -54,6 +54,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [0130-surrounded-regions](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0130-surrounded-regions/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0162-find-peak-element](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0179-largest-number](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0179-largest-number/) | Medium |
 | [0200-number-of-islands](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0200-number-of-islands/) | Medium |
@@ -362,6 +363,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [0035-search-insert-position](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0035-search-insert-position/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0162-find-peak-element](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2540-minimum-common-value/) | Easy |
