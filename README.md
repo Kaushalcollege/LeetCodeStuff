@@ -66,6 +66,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [0739-daily-temperatures](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0739-daily-temperatures/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0874-walking-robot-simulation/) | Medium |
+| [0881-boats-to-save-people](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0881-boats-to-save-people/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -130,6 +131,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [0179-largest-number](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0179-largest-number/) | Medium |
 | [0402-remove-k-digits](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0402-remove-k-digits/) | Medium |
 | [0561-array-partition](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0561-array-partition/) | Easy |
+| [0881-boats-to-save-people](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0881-boats-to-save-people/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -298,6 +300,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [0506-relative-ranks](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0506-relative-ranks/) | Easy |
 | [0561-array-partition](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0561-array-partition/) | Easy |
 | [0645-set-mismatch](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0645-set-mismatch/) | Easy |
+| [0881-boats-to-save-people](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0881-boats-to-save-people/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -422,6 +425,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [0061-rotate-list](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0061-rotate-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0821-shortest-distance-to-a-character/) | Easy |
+| [0881-boats-to-save-people](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0881-boats-to-save-people/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1861-rotating-the-box/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
