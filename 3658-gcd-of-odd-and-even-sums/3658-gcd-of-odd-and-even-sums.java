@@ -7,7 +7,7 @@ class Solution {
             even += 2;
             sumEven += even;
         }
-        System.out.println(sumOdd + " " + sumEven);
+        // System.out.println(sumOdd + " " + sumEven);
 
         return gcd(sumOdd, sumEven);
     }
