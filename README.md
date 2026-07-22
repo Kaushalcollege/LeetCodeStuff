@@ -50,6 +50,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [0035-search-insert-position](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0048-rotate-image/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0130-surrounded-regions/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -146,6 +147,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0048-rotate-image/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0733-flood-fill/) | Easy |
@@ -214,6 +216,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
