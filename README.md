@@ -114,6 +114,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -294,6 +295,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [0645-set-mismatch](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0645-set-mismatch/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -357,6 +359,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
