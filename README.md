@@ -60,6 +60,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [0179-largest-number](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0179-largest-number/) | Medium |
 | [0200-number-of-islands](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0200-number-of-islands/) | Medium |
 | [0396-rotate-function](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0396-rotate-function/) | Medium |
+| [0486-predict-the-winner](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0486-predict-the-winner/) | Medium |
 | [0506-relative-ranks](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0506-relative-ranks/) | Easy |
 | [0561-array-partition](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0561-array-partition/) | Easy |
 | [0645-set-mismatch](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0645-set-mismatch/) | Easy |
@@ -213,6 +214,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0206-reverse-linked-list/) | Easy |
 | [0342-power-of-four](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0342-power-of-four/) | Easy |
+| [0486-predict-the-winner](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0486-predict-the-winner/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -241,6 +243,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [0042-trapping-rain-water](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0042-trapping-rain-water/) | Hard |
 | [0070-climbing-stairs](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0070-climbing-stairs/) | Easy |
 | [0396-rotate-function](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0396-rotate-function/) | Medium |
+| [0486-predict-the-winner](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0486-predict-the-winner/) | Medium |
 | [0788-rotated-digits](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0788-rotated-digits/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -350,6 +353,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [0070-climbing-stairs](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0070-climbing-stairs/) | Easy |
 | [0342-power-of-four](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0342-power-of-four/) | Easy |
 | [0396-rotate-function](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0396-rotate-function/) | Medium |
+| [0486-predict-the-winner](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0486-predict-the-winner/) | Medium |
 | [0788-rotated-digits](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0788-rotated-digits/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1622-fancy-sequence](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1622-fancy-sequence/) | Hard |
@@ -502,4 +506,8 @@ As you can see from my profile, my primary languages for problem-solving are:
 | ------- | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
