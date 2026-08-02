@@ -68,6 +68,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [0739-daily-temperatures](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0739-daily-temperatures/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0874-walking-robot-simulation/) | Medium |
+| [0877-stone-game](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0877-stone-game/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0881-boats-to-save-people/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -245,6 +246,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [0396-rotate-function](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0486-predict-the-winner/) | Medium |
 | [0788-rotated-digits](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0788-rotated-digits/) | Medium |
+| [0877-stone-game](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0877-stone-game/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -355,6 +357,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [0396-rotate-function](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0486-predict-the-winner/) | Medium |
 | [0788-rotated-digits](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0788-rotated-digits/) | Medium |
+| [0877-stone-game](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0877-stone-game/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1622-fancy-sequence](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -510,4 +513,5 @@ As you can see from my profile, my primary languages for problem-solving are:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
