@@ -125,6 +125,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3660-jump-game-ix](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3731-find-missing-elements](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
@@ -285,6 +286,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [3488-closest-equal-element-queries](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3731-find-missing-elements](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -325,6 +327,7 @@ As you can see from my profile, my primary languages for problem-solving are:
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3731-find-missing-elements](https://github.com/Kaushalcollege/LeetCodeStuff/tree/main/3731-find-missing-elements/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
